@@ -1,0 +1,14 @@
+{
+  "name": "namely-icons",
+  "version": "1.0.0",
+  "description": "A set of commonly used icons for Namely",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "namely",
+    "icons"
+  ],
+  "author": "",
+  "license": "ISC"
+}
