@@ -7,4 +7,5 @@ deployment:
     commands:
       - npm start
       - echo "hello world!"
+      - npm install node-slack-cli -g
       - slack -c namely-ui -m "Hello slack!"
