@@ -7,3 +7,4 @@ deployment:
     commands:
       - npm start
       - echo "hello world!"
+      - slack -c namely-ui -m "Hello slack!"
