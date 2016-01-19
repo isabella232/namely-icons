@@ -4,13 +4,12 @@ A set of commonly used icons for Namely.
 
 Getting Started
 ---------------
-
-1. Clone the repo and ```cd``` into the directory
-2. Install dependencies
+- Clone the repo and ```cd``` into the directory
+- Install dependencies
 ```shell
 $ npm install
 ```
-3. Add new icons to ```/icons``` and run:
+- Add new icons to ```/icons``` and run:
 ```shell
 $ npm start
 ```
